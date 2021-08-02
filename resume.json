@@ -1,0 +1,61 @@
+{
+	"basics": {
+		"name": "Ashwin Jaimini",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/14a5gXKP2eGdoZ2lHuebEUoZQY0TADL5B/view?usp=sharing",
+		"email": "ashwin.jaimini@gmail.com",
+		"phone": "9460927077",
+		"summary": "  Student of Indian Institurte of Information technology ,Kota,MNIT Jaipur campus looking forward to build my skill set ",
+		"location": {
+			"address": "1120,Barkat nagar, Kissan marg,Tonk phatak",
+			"postalCode": "302015",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajsthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "ashwin0099",
+				"url": "https://github.com/ashwin0099"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ashwin Jaimini",
+				"url": "https://www.linkedin.com/in/ashwin-jaimini-iiitk-2023"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-07-23 ",
+		"gpa": "7.47",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"publications": [{
+		"title": "Basic Web Designing Using HTML and CSS",
+		"details": "Created a website with interactive interface using HTML & CSS.",
+		"link": "https://github.com/ashwin0099/ashwin0099.github.io"
+	},
+  {
+		"title": "Image Editor in Python",
+		"details": "A Basic Image Editor made using Python with features like crop, brightness,etc.",
+		"link": "https://github.com/Yash-Vardhan-Maurya/Basic_Image_Editor"
+	}],
+	"skills": [{
+		"keywords": ["MySql","C/C++","DSA","Java","HTML", "CSS" ]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Running"]
+	}
+  {
+		"name": "Music",
+		"keywords": ["drumming"]
+	}],
+	"references": []
+}
