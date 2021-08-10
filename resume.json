@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Ashwin Jaimini",
 		"label": "Student",
-		"picture": "https://drive.google.com/file/d/14a5gXKP2eGdoZ2lHuebEUoZQY0TADL5B/view?usp=sharing",
+		"picture": "https://media-exp1.licdn.com/dms/image/C5603AQFkjGF6itzeXA/profile-displayphoto-shrink_400_400/0/1628608170731?e=1634169600&v=beta&t=k-s9JLsXKzlzqah02yjhLxiOdBZh5IuC8q_rhcstz-Q",
 		"email": "ashwin.jaimini@gmail.com",
 		"phone": "9460927077",
 		"summary": "  Student of Indian Institurte of Information technology ,Kota,MNIT Jaipur campus looking forward to build my skill set ",
@@ -13,8 +13,7 @@
 			"countryCode": "India",
 			"region": "Rajsthan"
 		},
-		"profiles": [
-			{
+		"profiles": [{
 				"network": "Github",
 				"username": "ashwin0099",
 				"url": "https://github.com/ashwin0099"
@@ -37,25 +36,27 @@
 		]
 	}],
 	"publications": [{
-		"title": "Basic Web Designing Using HTML and CSS",
-		"details": "Created a website with interactive interface using HTML & CSS.",
-		"link": "https://github.com/ashwin0099/ashwin0099.github.io"
-	},
-  {
-		"title": "Image Editor in Python",
-		"details": "A Basic Image Editor made using Python with features like crop, brightness,etc.",
-		"link": "https://github.com/Yash-Vardhan-Maurya/Basic_Image_Editor"
-	}],
+			"title": "Basic Web Designing Using HTML and CSS",
+			"details": "Created a website with interactive interface using HTML & CSS.",
+			"link": "https://github.com/ashwin0099/ashwin0099.github.io"
+		},
+		{
+			"title": "Image Editor in Python",
+			"details": "A Basic Image Editor made using Python with features like crop, brightness,etc.",
+			"link": "https://github.com/Yash-Vardhan-Maurya/Basic_Image_Editor"
+		}
+	],
 	"skills": [{
-		"keywords": ["MySql","C/C++","DSA","Java","HTML", "CSS" ]
+		"keywords": ["MySql", "C/C++", "DSA", "Java", "HTML", "CSS"]
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords": ["Chess", "Running"]
-	}
-  {
-		"name": "Music",
-		"keywords": ["drumming"]
-	}],
+			"name": "Sports",
+			"keywords": ["Chess", "Running"]
+		},
+		{
+			"name": "Music",
+			"keywords": ["drumming"]
+		}
+	],
 	"references": []
 }
