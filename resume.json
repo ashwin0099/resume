@@ -19,7 +19,7 @@
 				"url": "https://github.com/ashwin0099"
 			},
 			{
-				"network": "linkedin",
+				"network": "Linkedin",
 				"username": "Ashwin Jaimini",
 				"url": "https://www.linkedin.com/in/ashwin-jaimini-iiitk-2023"
 			}
@@ -29,8 +29,8 @@
 		"institution": "Indian Institute of Information technology,Kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2019-02-08 - 2023 ",
-		"gpa": "7.47",
+		"startDate": "2019-02-08 - 2023",
+		"gpa": "7.56",
 		"courses": [
 			"Computer Science & Engineering"
 		]
