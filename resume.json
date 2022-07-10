@@ -35,19 +35,25 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	"publications": [{
-			"title": "Basic Web Designing Using HTML and CSS",
-			"details": "Created a website with interactive interface using HTML & CSS.",
-			"link": "https://github.com/ashwin0099/ashwin0099.github.io"
-		},
+	"publications": [
 		{
+			"title": "Automated Question Generator using deep learning",
+			"details": "a basic program using T5 transformer and concept of NLP to create question from given text",
+			"link": "https://github.com/ashwin0099/automatic-question-genrator-from-given-text"
+		},
+		 {
 			"title": "Image Editor in Python",
 			"details": "A Basic Image Editor made using Python with features like crop, brightness,etc.",
-			"link": "https://github.com/Yash-Vardhan-Maurya/Basic_Image_Editor"
+			"link": "https://github.com/ashwin0099/image-editor-in-pyhton"
+		},
+		 {
+			"title": "Wordle Strategy",
+			"details": "A helper program to get the answer in minimum try to the famous wordle game using information theory",
+			"link": "https://github.com/ashwin0099/wordle-assistant"
 		}
 	],
 	"skills": [{
-		"keywords": ["MySql", "C/C++", "DSA", "Java", "HTML", "CSS"]
+		"keywords": ["MySql","Python","MATLAB","WSL" ,"C/C++", "DSA", "Java", "HTML", "CSS"]
 	}],
 	"interests": [{
 			"name": "Sports",
